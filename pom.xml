@@ -25,8 +25,8 @@
 
     <modules>
         <module>services/customer-service</module>
+        <module>services/gateway</module>
     </modules>
-
     <dependencyManagement>
         <dependencies>
             <dependency>
